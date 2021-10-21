@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+
+    <string name="welcome">WELCOME</string>
+    <string name="enter_name">Enter Your Name To Continue</string>
+    <string name="name">Name</string>
+    <string name="start">START</string>
+
+    <string name="skip">SKIP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="finish">FINISH</string>
+
+    <string name="congrats">Congratulations!</string>
+    <string name="you_scored">You Scored</string>
+
+    <string name="image">Image</string>
+    <string name="next_question">Next Question in</string>
+</resources>
